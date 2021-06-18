@@ -1,0 +1,2 @@
+# Drone-Based-spray-Wall-Painting
+A wall painting equipment which will be carried and operated by automated drone that will be capable of painting building's wall(specifically high buildings) and also it can make designs, sketch on the wall.  This technology based equipment replaces the conventional painting method which is very time consuming and challenging, like: painting high buildings, is a kind of risk of death for the workers.
